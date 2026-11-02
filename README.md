@@ -1,5 +1,7 @@
 # House-and-Estate-Dashboard-
+
 Structure of Dashboard 
+
 The House Property Sales Analysis Dashboard is an interactive data visualization project designed to 
 analyze real estate property sales, pricing trends, property distribution, and location-based performance.
 
