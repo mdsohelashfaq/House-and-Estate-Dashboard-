@@ -19,10 +19,15 @@ property prices, including living area, number of bedrooms, floors, property con
   The dashboard provides five important performance indicators:
 
   ◦ Total Properties: 5K
+  
   ◦ Total Sales: 3BN
+  
   ◦ Average Price: 551.96K
+  
   ◦ Median Price: 460.94K
+  
   ◦ Average Price per Sqft: 265.88
+  
   ◦ These KPIs provide a quick overview of the overall housing market performance.
   
 2. 📅 Interactive Filters
