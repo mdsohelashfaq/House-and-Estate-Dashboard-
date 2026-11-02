@@ -19,15 +19,10 @@ property prices, including living area, number of bedrooms, floors, property con
   The dashboard provides five important performance indicators:
 
   ◦ Total Properties: 5K
-  
   ◦ Total Sales: 3BN
-  
   ◦ Average Price: 551.96K
-  
   ◦ Median Price: 460.94K
-  
   ◦ Average Price per Sqft: 265.88
-  
   ◦ These KPIs provide a quick overview of the overall housing market performance.
   
 2. 📅 Interactive Filters
@@ -68,19 +63,19 @@ property prices, including living area, number of bedrooms, floors, property con
  ◦Helps understand how property configurations relate to pricing.
  
 7. 🏘️ Properties by Distribution
- Categorizes properties into different price ranges:
+  Categorizes properties into different price ranges:
 
-  $300K–$500K
+   $300K–$500K
  
-  $500K–$750K
+   $500K–$750K
  
-  Under $300K
+   Under $300K
  
-  $750K–$1M
+   $750K–$1M
  
-  $1M+
+   $1M+
  
-  This visualization helps understand the distribution of properties across different market segments.
+   This visualization helps understand the distribution of properties across different market segments.
  
 
 8. 🏠 Condition by Properties
@@ -121,5 +116,7 @@ property prices, including living area, number of bedrooms, floors, property con
   
 
 Screenshot / Demos
+
 Showing the Dashboard will be look like.
+
 link(https://github.com/mdsohelashfaq/House-and-Estate-Dashboard-/blob/main/House%20Analysis.png)
