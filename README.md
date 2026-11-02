@@ -34,16 +34,20 @@ property prices, including living area, number of bedrooms, floors, property con
 
  Users can dynamically explore the dataset using filters:
 
- ◦Sales Date – Analyze sales across different time periods.
- ◦Plot by ZIP Code – Compare property performance by location.
- ◦Bedrooms – Filter properties based on bedroom count.
- ◦Floors – Analyze properties based on the number of floors.
+  ◦Sales Date – Analyze sales across different time periods.
+ 
+  ◦Plot by ZIP Code – Compare property performance by location.
+ 
+  ◦Bedrooms – Filter properties based on bedroom count.
+ 
+  ◦Floors – Analyze properties based on the number of floors.
+ 
  
 3. 💰 Price vs. Living Area
 
- ◦Analyzes the relationship between property living area and average price.
- ◦Helps identify how property size influences property value.
- ◦Uses a scatter plot to visualize pricing patterns across different living areas.
+  ◦Analyzes the relationship between property living area and average price.
+  ◦Helps identify how property size influences property value.
+  ◦Uses a scatter plot to visualize pricing patterns across different living areas.
  
 4. 📉 Trend of Price
  ◦Tracks property price movements over time.
@@ -93,27 +97,23 @@ property prices, including living area, number of bedrooms, floors, property con
  ⋅ Price Distribution: The $300K–$500K category contains the largest number of properties, with approximately 1,633 properties.
  
  ⋅ Bedroom Analysis: Properties with 8 bedrooms show an average price of approximately 1.16M in the dashboard.
+ 
 
 💡 Problems Solved
- This project addresses several challenges in real estate data analysis:
 
+ This project addresses several challenges in real estate data analysis:
+ 
  ◦ Lack of Market Visibility: Provides a consolidated view of property sales and pricing performance.
- 
  ◦ Difficulty Comparing Locations: Helps identify expensive and affordable ZIP codes.
- 
  ◦ Unclear Pricing Patterns: Makes it easier to understand how living area and bedrooms relate to property prices.
- 
  ◦ Complex Data Interpretation: Converts raw housing data into understandable charts and KPIs.
  
  
 🛠️ Tools & Technologies
 
   Dataset: Kaggle – House Property Sales Dataset
-  
   Data Visualization: Power BI
-  
   Data Analysis: Exploratory Data Analysis (EDA)
-  
   Dashboard Design: Interactive charts, KPI cards, slicers, and filters
   
 
