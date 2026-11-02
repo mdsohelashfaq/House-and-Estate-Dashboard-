@@ -45,9 +45,12 @@ property prices, including living area, number of bedrooms, floors, property con
  
 3. 💰 Price vs. Living Area
 
-  ◦Analyzes the relationship between property living area and average price.
+  ◦Analyzes the relationship between property living area and average price. 
+  
   ◦Helps identify how property size influences property value.
+  
   ◦Uses a scatter plot to visualize pricing patterns across different living areas.
+  
  
 4. 📉 Trend of Price
  ◦Tracks property price movements over time.
@@ -67,17 +70,17 @@ property prices, including living area, number of bedrooms, floors, property con
 7. 🏘️ Properties by Distribution
  Categorizes properties into different price ranges:
 
- $300K–$500K
+  $300K–$500K
  
- $500K–$750K
+  $500K–$750K
  
- Under $300K
+  Under $300K
  
- $750K–$1M
+  $750K–$1M
  
- $1M+
+  $1M+
  
- This visualization helps understand the distribution of properties across different market segments.
+  This visualization helps understand the distribution of properties across different market segments.
  
 
 8. 🏠 Condition by Properties
